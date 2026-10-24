@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://victoralipioazevedoborges-ops.github.io/fragmentacao-baixa-latencia-criador/sitemap.xml
